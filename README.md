@@ -73,7 +73,14 @@ Ejecutar las celdas para replicar los análisis y gráficas
 
 Consultar las conclusiones al final del notebook
 
+
+📊 Recomendación:
+# Como científico de datos recomendaría vender o desprenderse de la Tienda 4 dado su desempeño inferior en facturación, ventas y valor percibido en comparación con las demás tiendas.
+# Aunque sus costos de envío son menores, su rentabilidad global es la más baja, y tampoco compensa con mejores calificaciones.
+
 📧 Contacto
-Si quieres colaborar o tienes dudas: Autor: Pablo Álvarez A.
+Autor: Pablo Álvarez A.
+
 📩 parzival.remoto@gmail.com
+
 🔗(https://github.com/mUrdocK-258)
